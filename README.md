@@ -1,6 +1,6 @@
 # Task 12: Log Monitoring & Analysis
 
-**Intern Name:** Mohammed Fadil PK
+**Name:** Mohammed Fadil PK
 **Date:** February 3, 2026
 
 ## 📄 Project Description
